@@ -4,12 +4,12 @@ Release information for GOC product.
 ****
 
 ## 目錄
-* [Infra team source code](#Infra-team-source-code)
-* [SP team source code](#SP-team-source-code)
-* [Infra / SP document](#Infra-/-SP-document)
-* [Infra CI Test plan report](#Infra-CI-Test-plan-report)
-* [SP Test plan report](#SP-Test-plan-report)
-* [TS-UAT Test plan report](#TS-UAT-Test-plan-report)
+* [Infra team source code](#infra-team-source-code)
+* [SP team source code](#sp-team-source-code)
+* [Infra / SP document](#infra--sp-document)
+* [Infra CI Test plan report](#infra-ci-test-plan-report)
+* [SP Test plan report](#sp-test-plan-report)
+* [TS-UAT Test plan report](#ts-uat-test-plan-report)
 
 ### Infra team source code
 ------
