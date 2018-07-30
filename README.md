@@ -15,34 +15,34 @@ Release information for GOC product.
 ------
 TBD
 
-[回到目錄](#目錄)
+[回到目錄](#目錄):arrow_heading_up:
 
 ### SP team source code
 ------
 TBD
 
-[回到目錄](#目錄)
+[回到目錄](#目錄):arrow_heading_up:
 
 ### Infra / SP document
 ------
 TBD
 
-[回到目錄](#目錄)
+[回到目錄](#目錄):arrow_heading_up:
 
 ### Infra CI Test plan report
 ------
 TBD
 
-[回到目錄](#目錄)
+[回到目錄](#目錄):arrow_heading_up:
 
 ### SP Test plan report
 ------
 TBD
 
-[回到目錄](#目錄)
+[回到目錄](#目錄):arrow_heading_up:
 
 ### TS-UAT Test plan report
 ------
 TBD
 
-[回到目錄](#目錄)
+[回到目錄](#目錄):arrow_heading_up:
