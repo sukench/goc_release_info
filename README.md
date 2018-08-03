@@ -5,8 +5,8 @@ Release information for GOC product.
 
 ## 目錄
 * [New features](#new-features)
-* [Enhancement/Improvement](#enhancement-improvement)
-* [Removed/Retired features](#removed-retired-features)
+* [Enhancement/Improvement](#enhancementimprovement)
+* [Removed/Retired features](#removedretired-features)
 * [Fixed issues](#fixed-issues)
 * [Known issues](#known-issues)
 * [Infra team source code](#infra-team-source-code)
