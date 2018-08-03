@@ -1,4 +1,4 @@
-# goc_release_info
+# Release information for GOC product.
 * Version
   * 2018.1.0
 * Fileserver read-only account
