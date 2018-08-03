@@ -1,9 +1,8 @@
-# goc_release_info
-Release information for GOC product.
-
-Fileserver information: smb://172.16.200.50/Gemini_fileserver/Release/
-
-Read-only account: geminiuser/iltwagemini
+# Release information for GOC product.
+* Version
+  * 
+* Fileserver read-only account
+  * geminiuser/iltwagemini
 
 ****
 
