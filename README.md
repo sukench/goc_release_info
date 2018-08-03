@@ -57,13 +57,13 @@ Release information for GOC product.
 ### Infra team source code
 ------
 * Portal Image
- * smb://172.16.200.50/Gemini_fileserver/Release/2018.1/2018.1.0/Gemini_Portal-2018.1.0.img
+  * smb://172.16.200.50/Gemini_fileserver/Release/2018.1/2018.1.0/Gemini_Portal-2018.1.0.img
 * Harbor Image
- * smb://172.16.200.50/Gemini_fileserver/Release/2018.1/2018.1.0/Gemini_Docker_Registry-2018.1.0.img
+  * smb://172.16.200.50/Gemini_fileserver/Release/2018.1/2018.1.0/Gemini_Docker_Registry-2018.1.0.img
 * Log Server Image
- * smb://172.16.200.50/Gemini_fileserver/Release/2018.1/2018.1.0/Gemini_LogMgt_Server-2018.1.0.img
+  * smb://172.16.200.50/Gemini_fileserver/Release/2018.1/2018.1.0/Gemini_LogMgt_Server-2018.1.0.img
 * System Monitor
- * smb://172.16.200.50/Gemini_fileserver/Release/2018.1/2018.1.0/System Monitor
+  * smb://172.16.200.50/Gemini_fileserver/Release/2018.1/2018.1.0/System Monitor
 
 [回到目錄 :arrow_heading_up:](#目錄)
 
@@ -77,7 +77,8 @@ TBD
 ------
 * smb://172.16.200.50/Gemini_fileserver/Release/2018.1/2018.1.0/Document
 
-* Read-only account: geminiuser/iltwagemini
+* Read-only account
+  * geminiuser/iltwagemini
 
 [回到目錄 :arrow_heading_up:](#目錄)
 
