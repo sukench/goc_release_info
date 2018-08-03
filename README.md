@@ -68,7 +68,7 @@ TBD
 
 ### Infra / SP document
 ------
-smb://172.16.200.50/Gemini_fileserver/Release/2018.1/2018.1.0/Document
+[Click](smb://172.16.200.50/Gemini_fileserver/Release/2018.1/2018.1.0/Document)
 
 Read-only account: geminiuser/iltwagemini
 
