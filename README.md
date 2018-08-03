@@ -1,6 +1,8 @@
 # goc_release_info
 Release information for GOC product.
+
 Fileserver information: smb://172.16.200.50/Gemini_fileserver/Release/
+
 Read-only account: geminiuser/iltwagemini
 
 ****
@@ -23,7 +25,7 @@ Read-only account: geminiuser/iltwagemini
 * Job API.
 * Private Registry managment API.
 * OpenStack Reconfiguration.
-...
+* ...
 
 [回到目錄 :arrow_heading_up:](#目錄)
 
