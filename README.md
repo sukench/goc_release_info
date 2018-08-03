@@ -69,7 +69,11 @@ TBD
 ### Infra / SP document
 ------
 smb://172.16.200.50/Gemini_fileserver/Release/2018.1/2018.1.0/Document
+
 Read-only account: geminiuser/iltwagemini
+
+http://github.com - automatic!
+[GitHub](http://github.com)
 
 [回到目錄 :arrow_heading_up:](#目錄)
 
