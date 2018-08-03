@@ -1,6 +1,9 @@
 # goc_release_info
-Release information for GOC product.
-
+* Version
+  * 2018.1.0
+* Fileserver read-only account
+  * geminiuser/iltwagemini
+  
 ****
 
 ## 目錄
@@ -76,9 +79,6 @@ TBD
 ### Infra / SP document
 ------
 * smb://172.16.200.50/Gemini_fileserver/Release/2018.1/2018.1.0/Document
-
-* Read-only account
-  * geminiuser/iltwagemini
 
 [回到目錄 :arrow_heading_up:](#目錄)
 
