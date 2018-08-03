@@ -22,40 +22,31 @@ Read-only account: geminiuser/iltwagemini
 
 ### New features
 ------
-* Job API.
-* Private registry managment API.
-* OpenStack reconfiguration.
-* ...
+TBD
 
 [回到目錄 :arrow_heading_up:](#目錄)
 
 ### Enhancement/Improvement
 ------
-* API performance enhancement.
-* Load balancer enhancement.
+TBD
 
 [回到目錄 :arrow_heading_up:](#目錄)
 
 ### Removed/Retired features
 ------
-* Job type is not supported in Docker solution.
-* Harbor user/project is not bound to OpenStack user/tenant.
+TBD
 
 [回到目錄 :arrow_heading_up:](#目錄)
 
 ### Fixed issues
 ------
-* 在 newton 的 openstack 中無法透過 metering 取得 bandwidth 的資料 (GOC-376)
-* [2017.3.0] UAT測試, System Admin Guide文件內容與現況不符 (GOC-380)
-* 刪除 Site 時，GOC DB 會一直卡在 Deleting，但Site 已被刪除 (GOC-391)
+TBD
 
 [回到目錄 :arrow_heading_up:](#目錄)
 
 ### Known issues
 ------
-* Cloudinit is not working properly result in cutomizing user account fail. (GOC-35)
-* Stuck on the notification page while deleting three instances. (GOC-56)
-* 進入“通知”的訊息列表頁面，使用者無法切換群組 (GOC-108)
+TBD
 
 [回到目錄 :arrow_heading_up:](#目錄)
 
